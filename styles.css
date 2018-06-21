@@ -2,7 +2,8 @@
 background-color: green;
 }
 
-.main-header {
+.main-header, 
+h1 {
   display: flex;
   background-color: lightgreen;
 
