@@ -15,18 +15,24 @@ h1 {
 }
 
 .initial-research {
-  display: inline-flex; 
+  display: flex; 
+  display-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
   background-color: green;
   color: white;
   font: Helvetica Neue, Helvectica, Arial, serif;
   font-size: 1em;
-  align-content: left;
+
 }
 .services {
-  display: inline-flex;
+  display: flex;
+    display-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
 background-color: green;
   color: white;
   font: Helvetica Neue, Helvectica, Arial, serif;
   font-size: 1em;
-  align-content: right;
+
 }
