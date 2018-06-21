@@ -15,7 +15,7 @@ h1 {
 }
 
 .initial-research {
-  display: flex; 
+  display: inline-flex; 
   background-color: green;
   color: white;
   font: Helvetica Neue, Helvectica, Arial, serif;
@@ -23,7 +23,7 @@ h1 {
   align-content: left;
 }
 .services {
-  display: flex;
+  display: inline-flex;
 background-color: green;
   color: white;
   font: Helvetica Neue, Helvectica, Arial, serif;
