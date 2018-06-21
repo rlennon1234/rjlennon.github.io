@@ -3,7 +3,7 @@
 h1 
  {
   display: flex;
-   flex-direction: inline;
+   flex-direction: column;
   background-color: lightgreen;
   color: white;
   height: 3;
