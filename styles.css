@@ -1,18 +1,19 @@
 
 
-h1 
+.main-header
  {
   display: flex;
    flex-direction: column;
   background-color: lightgreen;
+  justify-content: space-around;
   color: white;
-  height: 3;
+  height: 1.5;
   width: 100%;
   font: Helvetica Neue, Helvectica, Arial, serif;
-  font-weight: 500; 
   line-height: 5;
   margin: auto;
   padding: 200px;
+  text-align: center;
 
 }
 
