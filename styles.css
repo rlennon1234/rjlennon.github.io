@@ -1,1 +1,10 @@
-
+.main-header {
+  display: flex; 
+background-color: orange; 
+  color: white;
+  font: Helvetica Neue, Helvectica, Arial, serif;
+  font-weight: 300; 
+  font-size: 1em; 
+  line-height: 1.5em; 
+  
+}
