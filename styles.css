@@ -1,11 +1,12 @@
 
 
-.main-header, 
+h1 
  {
   display: flex;
    flex-direction: inline;
   background-color: lightgreen;
   color: white;
+  height: 3;
   width: 100%;
   font: Helvetica Neue, Helvectica, Arial, serif;
   font-weight: 500; 
